@@ -6,7 +6,7 @@ namespace Pr1.Shalimov
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!");
+            Console.WriteLine("Hello!");
         }
     }
 }
